@@ -162,6 +162,24 @@ Partial Class MainForm
         Me.dataSentLabel.Text = "Data Sent to SDR Console"
         Me.dataSentLabel.TextAlign = System.Drawing.ContentAlignment.BottomLeft
         '
+        'SerialPortVFOA
+        '
+        '
+        'SerialPortVFOB
+        '
+        '
+        'SerialPortVFOC
+        '
+        '
+        'SerialPortVFOD
+        '
+        '
+        'SerialPortVFOE
+        '
+        '
+        'SerialPortVFOF
+        '
+        '
         'baudRateComboBox
         '
         Me.baudRateComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
@@ -945,7 +963,7 @@ Partial Class MainForm
         '
         'HelpProvider
         '
-        Me.HelpProvider.HelpNamespace = "D:\SDR\Uni-SDR Link Resources\Help\Uni-SDR Link.chm"
+        Me.HelpProvider.HelpNamespace = "Uni-SDR-Link.chm"
         '
         'showHelpButton
         '
